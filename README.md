@@ -2,7 +2,15 @@
 
 Welcome to Rust Dungeon Crawler, a text-based adventure game where you must explore a dungeon, battle monsters, and collect treasure.
 
-![Gameplay screenshot](screenshots/gameplay.png)
+
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/49692061/226739438-d0909c10-f11f-49a1-8c9c-67b25fd12ab8.png" alt="Image 1" width="100%"></td>
+    <td><img src="https://user-images.githubusercontent.com/49692061/226739598-ace8218b-2a32-4e4f-aa3a-f7a35b7ea349.png" alt="Image 2" width="100%"></td>
+  </tr>
+</table>
+
+
 
 ## Installation
 
@@ -41,9 +49,4 @@ Rust Dungeon Crawler is released under the [MIT License](LICENSE).
 ## Credits
 
 Rust Dungeon Crawler was created by Kayliese. Special thanks to [Any other contributors] for their contributions to the project.
-
-
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/49692061/226739438-d0909c10-f11f-49a1-8c9c-67b25fd12ab8.png"> 
-
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/49692061/226739598-ace8218b-2a32-4e4f-aa3a-f7a35b7ea349.png">
 
