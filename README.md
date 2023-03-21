@@ -18,13 +18,14 @@ To install Rust Dungeon Crawler, you'll need to have Rust installed on your mach
 
 Once Rust is installed, clone the repository to your machine:
 
+```
 git clone https://github.com/kayliese/dungeon_crawler.git
-
+```
 
 Then, navigate to the project directory and run the following command to start the game:
-
+```
 cargo run
-
+```
 
 ## Gameplay
 
